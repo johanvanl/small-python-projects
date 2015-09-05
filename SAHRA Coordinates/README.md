@@ -39,3 +39,7 @@ In the page source I would find the following structure:
 ```
 
 From the above structure I would then save the values in the 'title' attribute, namely '-25.755820' and '28.230870' into their respective places.
+
+---
+
+I used [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) to parse the HTML pages to get the latitude and longitude, which I downloaded and included in my project.
