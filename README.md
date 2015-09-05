@@ -1,2 +1,2 @@
-# small-python-projects
-Small Python Projects
+# Small Python Projects
+More information can be found in each directory.
